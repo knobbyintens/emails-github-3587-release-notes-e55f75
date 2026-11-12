@@ -1,2 +1,3 @@
-# emails-github-3587-release-notes-e55f75
-Public release notes portal (seeded for a workflow task)
+# Release Notes Portal
+
+This repository publishes customer-facing release notes for our product.
